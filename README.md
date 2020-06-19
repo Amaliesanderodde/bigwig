@@ -6,8 +6,8 @@ Description of the project:
 - Compare well data that are machine made versus human made
 
 Team members:
-- Amalie Sande Rødde
-- Hans Christian Walker
-- Sebastian Ægidius
-- Tobias Hermansen
-- Vetle Nevland
+- Amalie Sande Rødde (Geology)
+- Hans Christian Walker (Petroleum Engineering)
+- Sebastian Ægidius (Electrical And Computer Engineering)
+- Tobias Hermansen (Geology)
+- Vetle Nevland (Geophysics)
